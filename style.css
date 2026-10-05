@@ -10,8 +10,8 @@ html {
 
 body {
     font-family: Arial, sans-serif;
-    color: #292326;
-    background: #fffafa;
+    color: #3b2a2f;
+    background: #fff8f8;
 }
 
 img {
@@ -136,7 +136,7 @@ header {
     display: inline-block;
     padding: 16px 32px;
 
-    background: #d58a9b;
+    background: #b76e79;
     color: white;
 
     text-decoration: none;
@@ -177,7 +177,7 @@ header {
 
 .services-section {
     padding: 110px 7%;
-    background: #fffafa;
+    background: #fff8f8;
 }
 
 .services-container {
@@ -317,7 +317,7 @@ header {
 
 .team-section {
     padding: 110px 7%;
-    background: #fffafa;
+    background: #fff8f8;
 }
 
 .team-container {
@@ -377,7 +377,7 @@ header {
 }
 
 .stars {
-    color: #d58a9b;
+    color: #b76e79;
     font-size: 20px;
     letter-spacing: 3px;
     margin-bottom: 20px;
@@ -399,7 +399,7 @@ header {
 
 .booking-section {
     padding: 110px 7%;
-    background: #fffafa;
+    background: #fff8f8;
 }
 
 .booking-form {
@@ -430,7 +430,7 @@ header {
 .booking-form input:focus,
 .booking-form select:focus,
 .booking-form textarea:focus {
-    border-color: #d58a9b;
+    border-color: #b76e79;
 }
 
 .booking-form textarea {
@@ -446,7 +446,7 @@ header {
 
     border: none;
 
-    background: #292326;
+    background: #3b2a2f;
     color: white;
 
     font-size: 13px;
@@ -458,7 +458,7 @@ header {
 }
 
 .booking-form button:hover {
-    background: #d58a9b;
+    background: #b76e79;
 }
 
 
@@ -468,12 +468,12 @@ header {
     padding: 100px 20px;
     text-align: center;
 
-    background: #292326;
+    background: #3b2a2f;
     color: white;
 }
 
 .contact-section .section-title p {
-    color: #d58a9b;
+    color: #b76e79;
 }
 
 .contact-section .section-title h2 {
